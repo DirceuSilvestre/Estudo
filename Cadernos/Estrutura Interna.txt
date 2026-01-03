@@ -1,0 +1,154 @@
+	MEU MODELO
+
+📄 Nome do arquivo:
+FaseXX_DiaXX_nome_do_tema.c
+
+/* ==============================================================
+   Fase — DIA XX — [TÍTULO DO TEMA]
+   ==============================================================
+
+   🧩 CONTEÚDOS PRINCIPAIS:
+   - [Tópico 1]
+   - [Tópico 2]
+   - [Tópico 3]
+
+   🧠 CONCEITOS FUNDAMENTAIS:
+   - Explique brevemente os pontos teóricos
+   - Use seus próprios termos
+   - Liste insights importantes
+
+
+   - Próximo estudo: [indique o próximo arquivo ou tema]
+
+
+   🧱 ERROS E SOLUÇÕES:
+   - (Liste erros encontrados e como resolveu)
+
+   🗂️ REFERÊNCIAS CONSULTADAS:
+   - (links, vídeos ou livros usados)
+
+   ==============================================================
+   COMMIT PADRÃO:
+      FaseXX_DiaXX_nome_do_tema 
+
+   --------------------------------------------------------------
+
+   💻 EXEMPLO / CÓDIGO PRÁTICO:
+   ============================================================== */
+
+#include <stdio.h>
+
+int main() {
+    printf("Olá, mundo!\n");
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+/* ==============================================================
+   DIA 004 — Bits e Bytes
+   Objetivo: Entender como os dados são representados e armazenados.
+   ==============================================================
+   CONCEITOS FUNDAMENTAIS:
+   - Bit = menor unidade de informação (0 ou 1)
+   - Byte = conjunto de 8 bits
+   - Arquivos binários = cabeçalho + dados
+   - Cabeçalho = metadados (tipo, tamanho, etc.)
+   - Endianness define a ordem dos bytes
+
+   EXEMPLO PRÁTICO:
+   -------------------------------------------------------------- */
+
+#include <stdio.h>
+
+int main() {
+    FILE *arquivo = fopen("dados.bin", "wb");
+    int numeros[] = {1, 2, 3, 4};
+    fwrite(numeros, sizeof(int), 4, arquivo);
+    fclose(arquivo);
+
+    printf("Arquivo binário criado com sucesso!\n");
+    return 0;
+}
+
+/* ==============================================================
+   ANÁLISE FINAL:
+   - Entendi como os dados são gravados sequencialmente.
+   - Próximo passo: implementar leitura e testar o tamanho do arquivo.
+   ==============================================================
+   REVISÃO:
+   - [ ] Rever diferença entre texto e binário
+   - [ ] Entender função fseek()
+   ============================================================== */
+
+
+
+==============================================================
+📘 MODELO DE ESTRUTURA INTERNA DOS ARQUIVOS DE ESTUDO
+==============================================================
+
+📄 Nome do arquivo:
+fase_diaXX_nome_do_tema.c
+
+💡 Função:
+Cada arquivo é um caderno de aprendizado com teoria (comentários) + prática (código).
+
+==============================================================
+🔹 TEMPLATE PADRÃO
+==============================================================
+
+/* ==============================================================
+   Fase - DIA XX — [TÍTULO DO TEMA]
+   ==============================================================
+   🎯 OBJETIVO:
+   Descreva o que você quer compreender e ser capaz de fazer
+   após o estudo de hoje.
+
+   🧩 CONTEÚDOS PRINCIPAIS:
+   - [Tópico 1]
+   - [Tópico 2]
+   - [Tópico 3]
+
+   🧠 CONCEITOS FUNDAMENTAIS:
+   - Explique brevemente os pontos teóricos
+   - Use seus próprios termos
+   - Liste insights importantes
+
+   ==============================================================
+   💻 EXEMPLO / CÓDIGO PRÁTICO:
+   -------------------------------------------------------------- */
+
+#include <stdio.h>
+
+int main() {
+    printf("Olá, mundo!\n");
+    return 0;
+}
+
+/* ==============================================================
+   🔍 ANÁLISE E REFLEXÃO:
+   - O que eu aprendi neste exercício?
+   - O que ainda não entendi bem?
+   - Como aplicaria este conceito em outro contexto?
+
+   🧱 ERROS E SOLUÇÕES:
+   - (Liste erros encontrados e como resolveu)
+
+   ==============================================================
+   📚 REVISÃO E CONSOLIDAÇÃO:
+   - (Espaço reservado para revisar este tema)
+   - Próximo estudo: [indique o próximo arquivo ou tema]
+
+   🗂️ REFERÊNCIAS CONSULTADAS:
+   - (links, vídeos ou livros usados)
+
+   ==============================================================
+   COMMIT PADRÃO:
+      fase_diaXX_nome_do_tema 
+   ============================================================== */

@@ -1,0 +1,144 @@
+==============================================================
+📘 GUIA DIÁRIO RÁPIDO
+==============================================================
+
+ - Verificar tópico anterior
+ - Verificar tópico do dia
+ - Abrir repositório (git init, issue/task do dia)
+ - Criar o caderno do dia com a estrutura interna
+ - Não se distrair
+ - Estudar, preencher e codificar
+ - Fazer commit padronizado: faseXX_diaXX_nome_tópico
+ - Dúvidas consultar os arquivos txt necessários
+
+
+
+
+
+==============================================================
+📘 GUIA DIÁRIO DE ESTUDO — "TODO DIA"
+==============================================================
+
+🎯 OBJETIVO DO DIA
+→ Aprender um novo conceito e aplicá-lo imediatamente em código.
+→ Consolidar o conhecimento com anotações práticas e comentários.
+→ Garantir avanço constante e sustentável.
+
+🕐 TEMPO DISPONÍVEL: 1 hora por dia  
+📆 FREQUÊNCIA: 6 dias por semana (4 de estudo, 2 de revisão, 1 de descanso)
+
+==============================================================
+🔹 1. ROTINA MICRO (O QUE FAZER A CADA DIA DE ESTUDO)
+==============================================================
+
+**Estrutura da hora de estudo (60 minutos):**
+- ⏱️ 0–05 min → Setup rápido (abrir repo, issue/task do dia).
+- ⏱️ 5–10 min → Leitura rápida do tema do dia (livro, vídeo ou notas anteriores)
+- 💻 10–50 min → Programação prática: escrever código + comentar teoria
+- 🧩 50–55 min → Revisar código, resumir o que aprendeu
+- 📤 55–60 min → Fazer commit no GitHub com mensagem padronizada: diaXX_nome_tema
+
+💡 **Dica:** sempre inicie abrindo o arquivo do dia anterior para “aquecimento”.
+
+==============================================================
+🔹 2. ESTRUTURA SEMANAL (MACRO)
+==============================================================
+
+🗓️ **Ciclo de 7 dias:**
+- 🧠 Dia 1 → Estudo novo
+- 🧠 Dia 2 → Estudo novo
+- 🔁 Dia 3 → Revisão (consolidar os dois anteriores)
+- 🧠 Dia 4 → Estudo novo
+- 🧠 Dia 5 → Estudo novo
+- 🔁 Dia 6 → Revisão (consolidar dias 4 e 5)
+- 💤 Dia 7 → Descanso (sem códigos, só reflexão e leitura leve)
+
+📍 **Durante as revisões:**
+- Leia e refatore o código dos dias anteriores.
+- Adicione comentários extras explicando o raciocínio.
+- Atualize o “Tópicos.txt” marcando o progresso ([x]).
+
+==============================================================
+🔹 3. ANOTAÇÕES E ORGANIZAÇÃO
+==============================================================
+
+📁 PASTA: cadernos/
+📄 ARQUIVOS: diaXX_tópicos_estudados.c  
+
+📘 Cada arquivo contém:
+- Teoria explicada em comentários
+- Código prático
+- Revisão e observações pessoais
+
+✍️ **Como anotar:**
+- Escreva tudo em comentários dentro do código (`/* ... */`)
+- Finalize com uma mini seção “O que aprendi hoje”
+- Evite abrir novos documentos — concentre tudo no `.c` do dia.
+
+==============================================================
+🔹 4. REGRAS DE PROGRESSO
+==============================================================
+
+✅ Ao terminar um tema → marque como [x] em “Tópicos.txt”.
+✅ Ao terminar 10 dias → escreva um breve resumo no topo do “Roadmaps.txt”.
+✅ A cada 30 dias → leia seus arquivos iniciais e perceba a evolução.
+
+💪 **Motivação prática:** seu código é seu caderno — cada linha é memória viva.
+
+==============================================================
+🔹 5. PRINCÍPIOS NORTEADORES
+==============================================================
+
+🧩 **Mantenha o foco** → 1 hora = estudo profundo, sem distrações.  
+💬 **Comente tudo** → sua explicação deve ensinar até um leigo.  
+🪜 **Evolua por camadas** → entenda, pratique, depois aprofunde.  
+🎮 **Gamifique o aprendizado** → cada arquivo concluído é uma “fase vencida”.  
+🚀 **Nunca pule revisões** → elas transformam esforço em aprendizado real.
+
+==============================================================
+🔹 6. CHECKLIST RÁPIDO DIÁRIO
+==============================================================
+
+☐ Abrir o arquivo do dia anterior  
+☐ Abrir o repositório
+☐ Ler o tema atual  
+☐ Escrever o código e comentar cada parte  
+☐ Anotar o que aprendeu no final  
+☐ Comentar o que ainda não entendeu  
+☐ Atualizar “Tópicos.txt”  
+☐ Fazer commit no GitHub  
+☐ Encerrar satisfeito e sem distrações
+==============================================================
+
+
+
+
+
+Rotina
+
+	2 dias de estudo + 1 revisão
+	1 hora por dia
+	1 dia de descanso na semana
+
+
+Materiais
+
+	pasta caderno - cria arquivo C - numero do dia e tópicos de estudo
+
+	dentro de cada arquivo C tem a anotação do estudo e código respectivo em baixo
+	se for outra extensao (.md, .py), o arquivo precisa ter mesmo nome do caderno com anotação de estudo no C e código na outra extensão
+	usar chatgpt, google, vídeos, etc
+	buscar responder perguntas sobre o assunto e depois buscar se há mais topicos não abrangidos pelas perguntas para estudar
+
+
+Para cada sessão de 1 hora:
+
+	00–05 min: Setup rápido (abrir repo, issue/task do dia).
+	05–45 min: Estudo focal (40 min) — vídeo/reading/implementação.
+	45–60 min: Prática (15 min) — resolva 1 pequeno problema ou faça commit com comentário claro.
+
+	Ao final: commitar código com mensagem padrão: numero do dia: topic - short result
+
+	Revisões (dias de review): Re-sumarize notas em 30–40 min (escrever 6–8 bullets), re-solve 1 problema sem olhar solução
+
+

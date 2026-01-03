@@ -1,0 +1,169 @@
+==============================================================
+📘 TÓPICOS DE ESTUDO — CHECKLIST OTIMIZADO
+==============================================================
+
+🔰 FASE 0 — PREPARAÇÃO DO AMBIENTE
+--------------------------------------------------------------
+[x] 0.1 Compreensão das ferramentas (C, Python, Terminal, Git, Github, Docker, API)
+[ ] 0.2 Instalação das ferramentas
+[ ] 0.3 Configuração e boas práticas
+[ ] 0.4 Estrutura mínima de pastas e templates
+
+🔧 FASE 1 — FUNDAMENTOS OPERACIONAIS
+--------------------------------------------------------------
+[ ] 1.1 Organização de projetos (expansão de template)
+[ ] 1.2 Terminal básico com Bash (comandos práticos e scripts simples)
+[ ] 1.3 Docker e conteinerização
+[ ] 1.4 Licenças e boas práticas de código aberto (MIT, Apache, GPL)
+[ ] 1.5 Git e Github - versionamento a pull request
+[ ] 1.6 Markdown - estrutura de readme profissional
+
+🧠 FASE 2 — COMPUTADOR E SEUS FUNDAMENTOS
+--------------------------------------------------------------
+[ ] 2.1 Bits, bytes e representação de dados
+[ ] 2.7 Estrutura interna, cabeçalhos e organização de arquivos binários (WAV, BMP, CSV, offsets)
+[ ] 2.2 Estrutura do computador: CPU, RAM, registradores e etc
+[ ] 2.3 Ciclo fetch-decode-execute e a máquina de turing
+[ ] 2.4 Gerenciamento de processos
+[ ] 2.5 Conceitos de I/O e buffering
+[ ] 2.6 Memória e hierarquia de memória
+
+💻 FASE 3 — LINGUAGENS DE PROGRAMAÇÃO (C E PYTHON)
+--------------------------------------------------------------
+[ ] 3.01 Paradigmas de programação (imperativo, orientado objeto, procedura, funcional)
+[ ] 3.02 Ambiente (venv, gcc + flags)
+[ ] 3.03 Sintaxe básica
+[ ] 3.04 Bibliotecas, criação e conceito (.h, .c, .py)
+[ ] 3.05 Compilação, links e makefile
+[ ] 3.06 File I/O binário e texto
+[ ] 3.07 Tipos e escopos
+[ ] 3.08 Estruturas e loops (condicionais e laços)
+[ ] 3.09 Funções e escopos
+[ ] 3.10 Módulos e packages
+[ ] 3.11 Ponteiro e endereçamento
+[ ] 3.12 Structs e encapsulamento
+[ ] 3.13 Stack vs Heap
+[ ] 3.14 Gerenciamento manual (malloc/free)
+[ ] 3.15 Pytest, Debugging com gdb
+[ ] 3.16 Comparativo C vs Python (open/read/write)
+
+🧩 FASE 4 — ESTRUTURAS DE DADOS E ALGORITMOS
+--------------------------------------------------------------
+[ ] 4.1 Análise de Complexidade e Otimização de Códigos (Big O e seus tipos de O)
+[ ] 4.2 Listas, pilhas e filas
+[ ] 4.3 Árvores(BST, AVL, heap) e grafos
+[ ] 4.4 Algoritmos de busca e ordenação
+[ ] 4.5 Recursão e pensamento recursivo
+[ ] 4.6 Programação Dinâmica
+[ ] 4.7 Escolha de estruturas conforme o tipo de problema
+[ ] 4.8 Aplicação prática: NeetCode Easy
+[ ] 4.9 Aplicação prática: NeetCode Medium
+[ ] 4.10 Comparativo de performance C vs Python*
+
+
+
+
+
+
+==============================================================
+📘 TÓPICOS DE ESTUDO — CHECKLIST OTIMIZADO
+==============================================================
+
+🔰 FASE 0 — PREPARAÇÃO DO AMBIENTE
+--------------------------------------------------------------
+[ ] 0.1 Busca e compreensão das ferramentas atuais (C, Python, Terminal, Git, Github, Docker, API)
+[ ] 0.2 Instalação e configuração de cada ferramenta
+
+🔧 FASE 1 — FUNDAMENTOS OPERACIONAIS
+--------------------------------------------------------------
+[ ] 1.1 Organização de pastas e estrutura de projetos
+[ ] 1.2 Bash e terminal — comandos práticos e scripts simples
+[ ] 1.3 Docker e conteinerização
+[ ] 1.4 Git e GitHub — versionamento, branches, PRs, tags, Issues, Actions (CI simples)
+[ ] 1.5 Markdown — estrutura de README profissional (objetivo, instalação, uso, exemplos, badges, roadmap, contribuições)
+[ ] 1.6 Licenças e boas práticas de código aberto (MIT, Apache, GPL)
+
+🧠 FASE 2 — COMPUTADOR E SEUS FUNDAMENTOS
+--------------------------------------------------------------
+[ ] 2.1 Estrutura do computador: CPU, RAM, Armazenamento, Máquina de Turing
+[ ] 2.2 Bits, bytes e representação dos dados (incluindo hexadecimal e endianness)
+[ ] 2.3 Cabeçalhos e organização de arquivos binários (WAV, BMP, CSV, offsets)
+[ ] 2.4 Compilador e ciclo fetch-decode-execute
+[ ] 2.5 Hierarquia de memória (cache, RAM, disco)
+[ ] 2.6 Como o SO gerencia processos e memória
+
+💻 FASE 3 — LINGUAGENS DE PROGRAMAÇÃO (C E PYTHON)
+--------------------------------------------------------------
+[ ] 3.1 Paradigmas de Programação (Imperativo e OO)
+[ ] 3.2 Sintaxe básica em C e Python
+[ ] 3.3 Bibliotecas — principais e como criá-las (.h, .c, .py)
+[ ] 3.4 Compilação e Makefiles
+[ ] 3.5a File I/O texto (fopen, fscanf, fprintf)
+[ ] 3.5b File I/O binário (fread, fwrite, fseek)
+[ ] 3.5c Construção de formatos customizados (header + payload)
+[ ] 3.5d Comparativo C vs Python (open/read/write)
+[ ] 3.6a Stack vs Heap
+[ ] 3.6b Ponteiros e endereçamento
+[ ] 3.6c Gerenciamento manual (malloc/free)
+[ ] 3.6d Garbage Collection em Python
+[ ] 3.7 Condicionais e laços (simples e aninhados)
+[ ] 3.8 Funções e escopos (estático e dinâmico)
+[ ] 3.9 Arrays, strings e matrizes
+[ ] 3.10 Structs e encapsulamento
+
+🧩 FASE 4 — ESTRUTURAS DE DADOS E ALGORITMOS
+--------------------------------------------------------------
+[ ] 4.1 Análise de complexidade (Big O)
+[ ] 4.2 Listas, pilhas e filas
+[ ] 4.3 Árvores e grafos
+[ ] 4.4 Algoritmos de busca e ordenação
+[ ] 4.5 Recursão e pensamento recursivo
+[ ] 4.6 Programação Dinâmica
+[ ] 4.7 Escolha de estruturas conforme o tipo de problema
+[ ] 4.8 Aplicação prática: NeetCode Easy
+[ ] 4.9 Aplicação prática: NeetCode Medium
+[ ] 4.10 Comparativo de performance C vs Python
+==============================================================
+
+
+
+
+Minha Organização
+
+Fase 0 - Preparação do Ambiente
+[ ] 0.1 Busca e compreensão das ferramentas atuais para cada objetivo, assim como a versão atual de cada linguagem, e suas características (C, Python, Bash, Git/Github, Terminal)
+[ ] 0.2 Instalação e configuração de cada ferramenta
+
+Fase 1 - Fundamentos
+[ ] 1.1 Bash e terminal - o que é e seus comandos práticos, criar scripts simples
+[ ] 1.2 Organização de pastas e estrutura de projetos
+[ ] 1.3 Git e github - versionamento, commits, e versionamento profissional com as funções do github como CI basics (branches, PRs, rebase, tags, GitHub Issues, Actions (CI simples: run tests))
+[ ] 1.4 Markdown - organização e estrura dos melhores readme profissionais (objetivo, instalação, uso, exemplos, screenshots, badges (build/test), LICENSE, roadmap do projeto, contribuições.)
+[ ] 1.5 Licenças existentes para códigos e boas práticas de código aberto (Licenças aprofundadas — quando usar MIT vs Apache vs GPL)
+
+Fase 2 - Computador e seus fundamentos
+[ ] 1.1 Estrutura do computador: CPU, RAM, Armazenamento, Máquina de Turing de fita infinita
+[ ] 1.2 Bits, bytes e representação dos dados (hexadecimal também por exemplo) (bit/byte/endianness)
+[ ] 1.3 Cabeçalho e formas de organização de arquivos binários (cabeçalho vs. payload, formatos simples (WAV, BMP, CSV), tamanho de arquivo, byte offset.)
+
+Fase 3 - Linguagens de Programação e Suas Bases em C e Python
+[ ] 1.0 Paradigmas de Programação (Imperativo e Orientado a Objeto)
+[ ] 1.1 Sintaxe básica em C e Python
+[ ] 1.2 Bibliotecas, o que são e quais as principais bibliotecas
+[ ] 1.3 Compilação e Makefiles
+[ ] 1.4 Tipos de Dados, Variáveis e suas características em memória
+[ ] 1.5 Leitura e escrita em arquivos (File I/O em C, fopen/fread/fwrite/fseek/structs; criar e ler um arquivo binário com header próprio, construir um “mini-format” (arquivo com header: magic + length + payload) em C, salvar e ler, construir um “mini-format” (arquivo com header: magic + length + payload) em C, salvar e ler, open/read/write/seek, struct.pack/unpack, diferenças entre texto e binário, reimplementar o leitor/escritor em Python e comparar resultados (checksum/size).)
+[ ] 1.6 Ponteiros e Memória: stack vs heap, gerenciamento em C, garbage collection em Python e criação de bibliotecas (.h .c .py)
+[ ] 1.7 Condicionais e Laços e Laços aninhados
+[ ] 1.8 Funções e escopo, escopo estátio e escopo dinâmico
+[ ] 1.9 Arrays, strings e Matrizes
+[ ] 1.10 Structs
+
+Fase 4 - Estruturas de Dados e seus respectivos tipos nas linguagens C e Python
+[ ] 1.1 Análise de Complexidade e Otimização de Códigos (Big O e seus tipos de O)
+[ ] 1.2 Lista, Pilha e Fila
+[ ] 1.3 Grafo e Arvore
+[ ] 1.4 Buscas e Ordenações
+[ ] 1.5 Recursão
+[ ] 1.6 Programação Dinâmica
+[ ] 1.7 Melhores Estruturas para cada tipo de problema
