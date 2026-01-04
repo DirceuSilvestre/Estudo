@@ -5,7 +5,7 @@
 🔰 FASE 0 — PREPARAÇÃO DO AMBIENTE
 --------------------------------------------------------------
 [x] 0.1 Compreensão das ferramentas (C, Python, Terminal, Git, Github, Docker, API)
-[ ] 0.2 Instalação das ferramentas
+[x] 0.2 Instalação das ferramentas
 [ ] 0.3 Configuração e boas práticas
 [ ] 0.4 Estrutura mínima de pastas e templates
 
