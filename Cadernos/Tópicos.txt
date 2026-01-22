@@ -6,8 +6,8 @@
 --------------------------------------------------------------
 [x] 0.1 Compreensão das ferramentas (C, Python, Terminal, Git, Github, Docker, API)
 [x] 0.2 Instalação das ferramentas
-[ ] 0.3 Configuração e boas práticas
-[ ] 0.4 Estrutura mínima de pastas e templates
+[x] 0.3 Configuração e boas práticas
+[x] 0.4 Estrutura mínima de pastas e templates
 
 🔧 FASE 1 — FUNDAMENTOS OPERACIONAIS
 --------------------------------------------------------------
