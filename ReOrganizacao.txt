@@ -1,0 +1,54 @@
+	Re Organização
+		pois havia um arquivo anterior chamado organização
+		e após o estudo de organização de projetos
+		refiz a estrutura de pastas separando por responsabilidades
+
+
+📁 EPF (Estudo Por Fora)/
+│
+│
+├── 🗂️ Readme.md
+│       → Apresentação e explicação do projeto
+│     
+├── 🗂️ Re Organização.txt
+│       → Este arquivo (mapa principal da estrutura de estudos)
+│       → Serve como guia fixo para lembrar onde está cada coisa
+│       → Porém, com o aprendizado adquirido na organização de projetos
+│       → Esse arquivo pode ser apagado, uma vez que as pastas se tornaram auto-explicativas
+│     
+├── 🗂️ .gitignore
+│       → Arquivo de texto para o git ignorar binários, exes, e outros
+│	
+│
+├──  Fluxo de Estudo/
+│     │
+│     ├──  Fluxo Macro - RoadMap.txt
+│     │      → Caminho a ser seguido para atingir os objetivos
+│     │      → Sequência de conteúdos a serem estudados
+│     │
+│     ├──  Fluxo Diário.txt
+│     │      → Sequência de atividades a serem cumpridas no dia para iniciar o estudo
+│     │
+│     ├──  Fluxo do Caderno.txt
+│     │      → Estrutura que todo caderno deve ter
+│     │      → Separado e organizado corretamente para estudar e preencher os campos
+│     │     
+│     └──  Pesquisa de RoadMaps.txt
+│            → Rascunho com os roadmaps pesquisados
+│            → Rascunhos que serviram para a criação do arquivo Fluxo Macro - RoadMap.txt
+│
+│
+├──  Cadernos de Estudo/
+│         → Arquivos de estudo diário
+│         → Contém resumos de teorias e conceitos aprendidos
+│         → Organizado por dia e fase do estudo
+│         → Nomeado da seguinte forma: FaseXX_DiaXX_Nome_Dos_Conteudos
+│
+│
+└──  Códigos de Estudo/
+          → Arquivos dos códigos aprendidos e exercitados durante as aulas
+          → Nomeados da mesma dos arquivos teóricos
+          → Muda somente a linguagem ou no final do nome do conteúdo a palavra "Exercicio"
+          → Para não confundir com o caderno de mesmo nome
+
+
