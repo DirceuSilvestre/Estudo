@@ -8,9 +8,10 @@
    - [Tópico 3]
 
    🧠 CONCEITOS FUNDAMENTAIS:
-   - Explique brevemente os pontos teóricos
-   - Use seus próprios termos
-   - Liste insights importantes
+   - Basicamente separar por responsabilidade
+   - Apesar da dificuldade de encaixar cada arquivo em um lugar
+   - O importante é deixar tudo auto-explicativo
+   - Resolvendo qualquer confusão atual e com oportunidade para alterações futuras
 
    --------------------------------------------------------------
    EXPANSÃO DE TEMPLATE
@@ -46,13 +47,13 @@
    → Sempre estarão no git ignore
 
 
-
-
-   - Próximo estudo: [indique o próximo arquivo ou tema]
+   - Próximo estudo: Terminal Básico com Bash
 
 
    🧱 ERROS E SOLUÇÕES:
-   - (Liste erros encontrados e como resolveu)
+   - No início houve mais dúvidas do que erros
+   - As leituras foram fundamentais para evitar erros
+   - A correção do conteúdo foi a melhor solução
 
    🗂️ REFERÊNCIAS CONSULTADAS:
    - (links, vídeos ou livros usados)

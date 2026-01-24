@@ -11,8 +11,9 @@
 
 🔧 FASE 1 — FUNDAMENTOS OPERACIONAIS
 --------------------------------------------------------------
-[ ] 1.1 Organização de projetos (expansão de template)
+[x] 1.1 Organização de projetos (expansão de template)
 [ ] 1.2 Terminal básico com Bash (comandos práticos e scripts simples)
+[ ] 1.2.1 Terminal básico com Power Shell (comandos práticos e scripts simples no Windows)
 [ ] 1.3 Docker e conteinerização
 [ ] 1.4 Licenças e boas práticas de código aberto (MIT, Apache, GPL)
 [ ] 1.5 Git e Github - versionamento a pull request
