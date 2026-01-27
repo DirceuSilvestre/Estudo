@@ -1,5 +1,5 @@
 /* ==============================================================
-   Fase 01 — DIA 15 — Terminal Básico com Bash
+   Fase 01 — DIA 14 — Terminal Básico com Bash
    ==============================================================
 
    🧩 CONTEÚDOS PRINCIPAIS:
@@ -8,8 +8,8 @@
    - [Tópico 3]
 
    🧠 CONCEITOS FUNDAMENTAIS:
-   - Explique brevemente os pontos teóricos
-   - Use seus próprios termos
+   - Compreensão da Lógica de pensamento de diretorios e arquivos
+   - Comandos básicos de movimentação, criação, exclusão e outros, para diretórios e arquivos
    - Liste insights importantes
 
    --------------------------------------------------------------
@@ -63,6 +63,21 @@
          rm -i pasta -- interactive -- solicita confirmação para remover cada arquivo dentro do diretorio 
          rm -f pasta -- force -- ignora arquivos existentes e nao solicita confirmação
          rm -r pasta -- recursive -- necessário para remover diretórios e todo o seu conteúdo
+         rm -v pasta -- verbose -- explica o que está fazendo e listando cada arquivo removido
+         - recomenda-se usar ls pasta/* para saber tudo que será apagado além do diretório, antes de usar rm -rf pasta/*
+         - configurar um alias no arquivo .bashrc (alias rm='rm -i') para que o sistema sempre peça confirmação
+         - O uso de sudo rm deve ser restrito ao máximo, pois pode remover arquivos essenciais do sistema operacional, tornando-o inoperante
+   → cat arquivo.txt  -- concatenate -- exibe no terminal o conteudo do arquivo
+   → less arquivo.txt  -- less is more -- comando para exibição de conteúdo por partes e permitindo navegação controlada
+         less -N arquivo.txt -- -- exibe número de linhas ao lado do texto
+         less -S arquivo.txt -- chop long line -- corta linhas longas ao inves de quebra-las para a linha de baixo
+         less -X arquivo.txt -- -- impede que limpe a tela, deixando o conteudo visivel no historico do terminal
+         - setas (cima/baixo) ou espaço rola o texto linha por linha ou página por página
+         - g vai para o início do arquivo
+         - G vai para o final do arquivo
+         - /termo pesquisa por um termo especifico no texto
+         - q de quit sai do visualizador e volta para o prompt
+          
 
    - Próximo estudo: Continuação de Terminal com Bash
 
