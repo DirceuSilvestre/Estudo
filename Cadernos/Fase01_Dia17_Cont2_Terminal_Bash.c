@@ -1,5 +1,5 @@
 /* ==============================================================
-   Fase 01 — DIA 16 — Terminal Básico com Bash
+   Fase 01 — DIA 17 — Terminal Básico com Bash
    ==============================================================
 
    🧩 CONTEÚDOS PRINCIPAIS:
@@ -31,6 +31,13 @@
    → Antes não existia tanto recurso visual como atualmente
    → Mesmo os recursos visuais eles funcionam a partir de comandos
    → Que vão sendo traduzidos até a compreensão da cpu para execusão do que foi pedido
+
+   PERMISSÕES
+   → Regras de segurança que definem cargos e atribuições, quem pode o que
+   → São organizadas em 3 tipos e 3 grupos
+   → Os 3 tipos são as flags: -r, -w, -x (read, write, execute)
+   → Os 3 grupos são: u, g, o (user/owner, group, others)
+   
 
    COMANDOS
    → pwd  -- print working directory -- indica o local atual, qual pasta nós estamos
@@ -77,6 +84,10 @@
          - G vai para o final do arquivo
          - /termo pesquisa por um termo especifico no texto
          - q de quit sai do visualizador e volta para o prompt
+   → nano script.sh  -- editor de arquivos -- nativo dos sistemas linux
+         - Ctrl + 0 para salvar a edição no arquivo
+         - Ctrl + X para sair do editor
+   → 
           
 
    - Próximo estudo: Continuação de Terminal com Bash
