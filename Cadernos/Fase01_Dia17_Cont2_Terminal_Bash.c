@@ -52,7 +52,7 @@
          ls -la - combinação dos dois anteriores exibindo todos os arquivos e com detalhes
    → mkdir  -- make directory -- cria um novo diretorio filho do atual, um novo vértice(nó) filho  
          mkdir -p pasta/pasta/pasta -- parents -- cria de forma recursiva caso não tenha a pasta ainda
-   → rkdir  -- remove directory -- remove o diretorio do nome descrito se estiver vazio
+   → rmdir  -- remove directory -- remove o diretorio do nome descrito se estiver vazio
          rmdir -r pasta -- recursive -- remove primeiro o conteudo depois o diretorio
    → touch  -- -- cria arquivo vazio
    → cp origem.tipo destino.tipo  -- copy -- copia o arquivo origem para o destino
