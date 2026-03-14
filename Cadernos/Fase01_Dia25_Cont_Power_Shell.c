@@ -1,5 +1,5 @@
 /* ==============================================================
-   Fase 01 — DIA 24 — Introdução ao Power Shell
+   Fase 01 — DIA 25 — Continuação a Introdução do Power Shell
    ==============================================================
 
    🧩 CONTEÚDOS PRINCIPAIS:
