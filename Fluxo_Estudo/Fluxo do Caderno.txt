@@ -17,6 +17,14 @@ FaseXX_DiaXX_nome_do_tema.c
    - Use seus próprios termos
    - Liste insights importantes
 
+   --------------------------------------------------------------
+   SUBTEMA
+   --------------------------------------------------------------
+
+   NOME
+   →
+   →
+   →
 
    - Próximo estudo: [indique o próximo arquivo ou tema]
 
