@@ -48,7 +48,7 @@
    - Nenhum erro encontrado, as fontes se complementaram
 
    🗂️ REFERÊNCIAS CONSULTADAS:
-   - Utilizei tanto o ChatGPT quanto a IA do Google que referencia cada fonte utilizada
+   - Utilizei tanto o ChatGPT quanto a IA do Google ordenando referenciar cada fonte utilizada
 
    ==============================================================
    COMMIT PADRÃO:

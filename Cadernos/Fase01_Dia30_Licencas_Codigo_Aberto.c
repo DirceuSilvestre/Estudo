@@ -47,7 +47,7 @@
    → Visão Corporativa - Apache - compartilhar mas com segurança jurídica 
 
 
-   - Próximo estudo: Continuação ou Finalização desse tema
+   - Próximo estudo: 1.5 Git e Github - versionamento a pull request
 
 
    🧱 ERROS E SOLUÇÕES:
