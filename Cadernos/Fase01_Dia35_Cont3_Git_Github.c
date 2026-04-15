@@ -1,11 +1,11 @@
 /* ==============================================================
-   Fase 01 — DIA 34 — Continuação Git e Github - versionamento a pull request
+   Fase 01 — DIA 35 — Continuação Git e Github - versionamento a pull request
    ==============================================================
 
    🧩 CONTEÚDOS PRINCIPAIS:
-   - [Tópico 1]
-   - [Tópico 2]
-   - [Tópico 3]
+   - Branches
+   - Comandos
+   - Head
 
    🧠 CONCEITOS FUNDAMENTAIS:
    - Explique brevemente os pontos teóricos
@@ -48,9 +48,11 @@
    → git cherry-pick nome_dos_commits -- pega os commits listados e colocam como filhos do commit atual onde esta com a branch que esta atualmente na ordem em que foram listados no comando
    → git tag nome_da_tag nome_do_commit -- coloca uma tag no commit especificado
    → git describe referencia -- descreve onde esta com relação a tag mais próxima, a partir da referencia ou do head se nao tiver especificado a referencia
+   → git clone <url-do-repositório> -- clona todos os dados do repositório remoto para o repositório local e ja executa git init
+
 
    
-   - Próximo estudo: Continuação de Git e Github - versionamento a pull request
+   - Próximo estudo: Push & Pull -- repositórios remotos no Git!
 
 
    🧱 ERROS E SOLUÇÕES:
