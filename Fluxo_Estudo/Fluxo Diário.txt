@@ -63,7 +63,7 @@
 ==============================================================
 
 📁 PASTA: cadernos/
-📄 ARQUIVOS: diaXX_tópicos_estudados.c  
+📄 ARQUIVOS: faseXX_diaXX_tópicos_estudados.c  
 
 📘 Cada arquivo contém:
 - Teoria explicada em comentários

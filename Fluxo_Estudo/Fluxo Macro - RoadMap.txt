@@ -16,7 +16,7 @@
 [x] 1.2.1 Terminal básico com Power Shell (comandos práticos e scripts simples no Windows)
 [x] 1.3 Docker e conteinerização
 [x] 1.4 Licenças e boas práticas de código aberto (MIT, Apache, GPL)
-[ ] 1.5 Git e Github - versionamento a pull request
+[x] 1.5 Git e Github - versionamento a pull request
 [ ] 1.6 Markdown - estrutura de readme profissional
 
 🧠 FASE 2 — COMPUTADOR E SEUS FUNDAMENTOS

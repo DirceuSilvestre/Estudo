@@ -66,9 +66,7 @@
    → git push - envia as alterações locais, os commits, para o repositório remoto deixando os dois no mesmo estado até o momento
 
 
-
-   
-   - Próximo estudo: Push & Pull -- repositórios remotos no Git!
+   - Próximo estudo: Markdown
 
 
    🧱 ERROS E SOLUÇÕES:
